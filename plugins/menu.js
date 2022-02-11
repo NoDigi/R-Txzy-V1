@@ -194,179 +194,179 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
           "sections": [
             {
               "rows": [{
-                "title": `Pemilik Bot`,
+                "title": `Pemilik Bot[👤]`,
                 "description": "Nomor Pemilik Bot (owner)",
                 "rowId": `${_p}creator`
               }, {
-                "title": "Syarat Ketentuan dan Peraturan",
+                "title": "Syarat Ketentuan dan Peraturan[💌]",
                 "description": "Harap membaca Peraturan demi kenyamanan kita bersama",
                 "rowId": `${_p}rules`
               }],
-              "title": "Informasi Bot"
+              "title": "Informasi Bot[📝]"
             }, {
               "rows": [{
-                "title": `Semua Perintah`,
+                "title": `Semua Perintah[🧾]`,
                 "description": "Menu Semua Perintah",
                 "rowId": `${_p}? all`
                 }],
               "title": "─────「 1 」"
             }, {
               "rows": [{
-                "title": `Game`,
+                "title": `Game[🎮]`,
                 "description": "Menu untuk Game",
                 "rowId": `${_p}? game`
               }],
               "title": "─────「 2 」"
             }, {
               "rows": [{
-                "title": `XP`,
+                "title": `XP[📈]`,
                 "description": "Menu untuk XP",
                 "rowId": `${_p}? xp`
               }],
               "title": "─────「 3 」"
             }, {
               "rows": [{
-                "title": `Sticker`,
+                "title": `Sticker[🌃]`,
                 "description": "Menu untuk Sticker",
                 "rowId": `${_p}? stiker`
               }],
               "title": "─────「 4 」"
             }, {
               "rows": [{
-                "title": `Kerang Ajaib`,
+                "title": `Kerang Ajaib[🐚]`,
                 "description": "Puja kerang ajaib...",
                 "rowId": `${_p}? kerangajaib`
               }],
               "title": "─────「 5 」"
             }, {
               "rows": [{
-                "title": `Quotes`,
+                "title": `Quotes[📑]`,
                 "description": "Menu untuk Quotes",
                 "rowId": `${_p}? quotes`
               }],
               "title": "─────「 6 」"
             }, {
               "rows": [{
-                "title": `Admin`,
+                "title": `Admin🏛️`,
                 "description": "Menu untuk Admin",
                 "rowId": `${_p}? admin`
               }],
               "title": "─────「 7 」"
             }, {
               "rows": [{
-                "title": `Grup`,
+                "title": `Grup[🏢]`,
                 "description": "Menu untuk Group",
                 "rowId": `${_p}? group`
               }],
               "title": "─────「 8 」"
             }, {
               "rows": [{
-                "title": `Premium`,
+                "title": `Premium[🔝]`,
                 "description": "Menu untuk Premium Users",
                 "rowId": `${_p}? premium`
               }],
               "title": "─────「 9 」"
             }, {
               "rows": [{
-                "title": `Internet`,
+                "title": `Internet[🖥️]`,
                 "description": "Menu untuk menjelajahi Internet...",
                 "rowId": `${_p}? internet`
               }],
               "title": "─────「 10 」"
             }, {
               "rows": [{
-                "title": `Anonymous Chat`,
+                "title": `Anonymous Chat[🕵️]`,
                 "description": "Menu untuk Anonymous Chat",
                 "rowId": `${_p}? anonymous`
               }],
               "title": "─────「 11 」"
             }, {
               "rows": [{
-                "title": `Rpg`,
+                "title": `Rpg[🗾]`,
                 "description": "Menu untuk Nulis & Logo",
                 "rowId": `${_p}? rpg`
               }],
               "title": "─────「 12 」"
             }, {
               "rows": [{
-                "title": `Nulis & Logo`,
+                "title": `Nulis & Logo[✒️]`,
                 "description": "Menu untuk Nulis & Logo",
                 "rowId": `${_p}? nulis`
               }],
               "title": "─────「 13 」"
             }, {
               "rows": [{
-                "title": `Downloader`,
+                "title": `Downloader[📺]`,
                 "description": "Menu Downloader",
                 "rowId": `${_p}? downloader`
               }],
               "title": "─────「 14 」"
             }, {
             	"rows": [{
-                "title": `NSFW`,
+                "title": `NSFW[🔞]`,
                 "description": "Menu Hentai",
                 "rowId": `${_p}? nsfw`
               }],
               "title": "─────「 15 」"
             }, {
               "rows":[{
-                "title": `Tools`,
+                "title": `Tools[🔧]`,
                 "description": "Menu untuk Tools",
                 "rowId": `${_p}? tools`
               }],
               "title": "─────「 16 」"
             }, {
               "rows": [{
-                "title": `Fun`,
+                "title": `Fun[🎇]`,
                 "description": "Menu Fun",
                 "rowId": `${_p}? fun`
               }],
               "title": "─────「 17 」"
             }, {
               "rows": [{
-                "title": `Database`,
+                "title": `Database[📂]`,
                 "description": "Menu untuk Database",
                 "rowId": `${_p}? database`
               }],
               "title": "─────「 18 」"
             }, {
               "rows": [{
-                "title": `Vote & Absen`,
+                "title": `Vote & Absen[📝]`,
                 "description": "Menu untuk Vote & Absen",
                 "rowId": `${_p}? vote`
               }],
               "title": "─────「 19 」"
             }, {
               "rows": [{
-                "title": `Islamic`,
+                "title": `Islamic[🕋]`,
                 "description": "Menu Islamic",
                 "rowId": `${_p}? islamic`
               }],
               "title": "─────「 20 」"
             }, {
               "rows": [{
-                "title": `Pengubah Suara`,
+                "title": `Pengubah Suara[🎙️]`,
                 "description": "Menu Pengubah Suara",
                 "rowId": `${_p}? audio`
               }],
               "title": "─────「 21 」"
             }, {
               "rows": [{
-                "title":  `Jadi Bot`,
+                "title":  `Jadi Bot[🤖]`,
                 "description": "Numpang",
                 "rowId": `${_p}? jadibot`
               }],
               "title": "─────「 22 」"
             }, {
             	"rows": [{
-                "title": `anime`,
+                "title": `anime[⛩️]`,
                 "description": "Menu untuk mencari anime",
                 "rowId": `${_p}? anime`
               }],
               "title": "─────「 23 」"
             }, {
               "rows": [{
-                "title": `Info`,
+                "title": `Info[ℹ️]`,
                 "description": "Menu untuk Info",
                 "rowId": `${_p}? info`
               }],
@@ -380,14 +380,14 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
               "title": "─────「 25 」"
             }, {
               "rows": [{
-                "title":  `Owner Menu`,
+                "title":  `Owner Menu[👩🏻‍💻]`,
                 "description": "Menu Khusus Owner",
                 "rowId": `${_p}? owner`
               }],
               "title": "─────「 26 」"
             }, {
               "rows": [{
-                "title":  `THANKS TO`,
+                "title":  `THANKS TO[❤️]`,
                 "description": "TERIMAKASIH KEPADA DEVELOPER SC",
                 "rowId": `.tqto`
               }],
