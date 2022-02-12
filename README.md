@@ -4,16 +4,16 @@
 </p>
 <h1 align="center">Lan Ofiicial</h1>
 
-<h1 align="center">Jangan lupa kasih stars & follow :)</h1>
+<h1 align="center">Jangan lupa join Grub bot wa :)</h1>
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://github.com/AlyaaXd"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk"><img title="Author" src="https://img.shields.io/badge/Author-AlyaaXzy.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
-  <a href="https://github.com/BOTCAHX"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB"><img title="Author" src="https://img.shields.io/badge/Author-BOTCAHX.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a
   <a href="https://wa.me/6289505165400">SC FREE API KOK GAN >//< </a>
