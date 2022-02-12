@@ -1,7 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 ye = `@${m.sender.split`@`[0]}`
-let info = `Hah sc? Mending Masuk gc gua.
+let info = `Ea nyari sc ya banh? Mending Masuk gc gua.
+- GROUP BOT¹
 • https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk
+- GROUP BOT²
+• https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', `*${global.packname}*`, 'status@broadcast') 
