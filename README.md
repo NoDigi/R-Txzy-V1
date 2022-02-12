@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://telegra.ph/file/4637101da58e21976363b.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
+<img src="https://telegra.ph/file/67a6ee607d03a4e52757d.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
 
 </p>
-<h1 align="center">AlyaaXzy X BOTCAH™</h1>
+<h1 align="center">Lan Ofiicial</h1>
 
 <h1 align="center">Jangan lupa kasih stars & follow :)</h1>
 
@@ -65,9 +65,9 @@ Simple WhatsApp Bot
 # THANKS TO 
  [`Baileys`](https://github.com/adiwajshing/Baileys)
 
- [`AlyaXzy`](https://wa.me/6289505165400)
+ [`LanXzy`](https://wa.me/60189830350)
 
- [`BOTCAHX`](https://wa.me/6282221792667)
+ [`LynXzy`](https://wa.me/60149431385)
 
 # Hargai Kami Dengan Menambahkan Kredit ( Wm ) 
 
